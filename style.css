@@ -1,5 +1,6 @@
-/* .layout-output {
-    min-height: 80vh;
-    min-width: 60vw;
-    border-radius: 80px;
-} */
+#iconImage {
+    max-width: 20%;
+    height: auto;
+    border-radius: 50%;
+    opacity: .5;
+}
